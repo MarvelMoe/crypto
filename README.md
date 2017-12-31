@@ -1,9 +1,9 @@
 # Crypto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3. It will use Angular on Front End and Node JS on the backend.
+This project will be a message app that will be hopefully be hconverted to a cryptocurrency app.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+Run `ng serve` for a dev server and navigate to http://localhost:4200/  to see it.
 
 
