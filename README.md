@@ -1,6 +1,6 @@
 # Crypto
 
-This project will be a message app that will be hopefully be hconverted to a cryptocurrency app.
+This project will be a message app that will be hopefully be converted to a cryptocurrency app.
 
 ## Development server
 
